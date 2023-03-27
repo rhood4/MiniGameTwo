@@ -1,0 +1,16 @@
+Start Point
+You suddenly wake up from a coma in a dark room. You see a door that leads somewhere. You can go EAST from here.
+Outside
+You are now outside and it is now raining. You see two paths. You can go WEST or NORTH from here.
+Room 1
+You are now in an abandoned church. You see someone is inside "praying". You may not want to disrupt them. You can go  EAST or SOUTH from here.
+Room 2
+You are now an enormous kitchen, you see dirty pots and pans. You have the option to go WEST or SOUTH.
+Room 3
+You are now in the woods, and you here something in the woods. Wanna play Scooby-Doo? Or use common-sense and leave it alone? You may go NORTH or SOUTH.
+Room 4
+You enter a small bathroom, you have the option to go NORTH or EAST. Or you can use it. (JK)
+Room 5
+You enter the hallway again and see another door leading ahead of you. WEST or NORTH.
+Room 6
+You are standing in the garden of the house when you decide it will be a great place to stay (<cough> "idiot"). You can go SOUTH to reexplore the home.

@@ -1,0 +1,42 @@
+Start Point
+EAST
+Outside
+Outside
+WEST
+Start Point
+Outside
+NORTH
+Room 1
+Room 1
+South
+Outside
+Room 1
+EAST
+Room 2
+Room 2
+WEST
+Room 1
+Room 2
+SOUTH
+Room 3
+Room 3
+NORTH
+Room 2
+Room 3
+SOUTH
+Room 4
+Room 4
+NORTH
+Room 3
+Room 4
+EAST
+Room 5
+Room 5
+WEST
+Room 4
+Room 5
+NORTH
+Room 6
+Room 6
+SOUTH
+Room 5
